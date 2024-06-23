@@ -31,7 +31,4 @@ This project is trained on the following dataset: [Audio Digits Dataset](https:/
 
 
 
-- Reward Curve
-
-![Reward](https://github.com/AkshayKulkarni3467/FrankaEmikaRobot/assets/129979542/c5d7a351-1fef-48ea-8f97-00df003b60bc)
 
